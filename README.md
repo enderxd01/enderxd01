@@ -189,13 +189,13 @@ Mi enfoque metodológico se sustenta en:
 </a>
 </td>
 <td align="center">
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://www.linkedin.com/in/edwin-avelardo-javier-ferrufino-636a1042b/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center">
-<a href="mailto:tu.email@ejemplo.com">
+<a href="mailto:enderpro1122@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
 <br><b>Email</b>
 </a>
